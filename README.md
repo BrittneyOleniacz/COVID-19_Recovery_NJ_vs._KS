@@ -1,2 +1,2 @@
-# project-1
-First Group Project
+#Covid-19 Recovery: NJ vs. KS
+
